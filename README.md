@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @berkespace
 - 👀 I’m interested in C,C#,C++ and Web development (frontend & backend)
 - 🌱 I’m currently learning C++,JavaScript,Laravel Framework
-- 💞️ I’m looking to collaborate on Object oriented projects, Industrial automations, any kind of project that i can contribute to .
+- 💞️ I’m looking to collaborate  Object oriented projects, Industrial automations, any kind of project that i can contribute to .
 - 📫 How to reach me ---> Mail : stelberke@gmail.com | twitter : @berkespace 
 
 <!---
