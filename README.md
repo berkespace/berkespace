@@ -49,4 +49,4 @@ target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dan
 
 <a href="https://github.com/berkespace" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkespace&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![berke](https://user-images.githubusercontent.com/40868030/177414353-d1033924-30d2-4211-9ec2-31fa85464754.png)
+
