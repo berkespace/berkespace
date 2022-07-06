@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desktop and Web Developer
 -------------------------
 
-I’m interested in C,C#,C++ and Web Frameworks React & Next.js, Laravel (frontend & backend).
+I’m interested in C,C#,C++ and Web Frameworks React & Next.js,Node.js (frontend & backend).
 
 * 🌍  I'm based in Turkey / Antalya
 * 🖥️  See my portfolio at [berkecode.com](http://berkecode.com)
