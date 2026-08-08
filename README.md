@@ -11,7 +11,7 @@ I'm a frontend-focused developer who enjoys turning complex operational workflow
 
 ## Currently building
 
-**Hızla Yönet** *(private)* — an all-in-one restaurant operations platform that brings online orders, POS and table management, menu synchronization, and live courier tracking into one system.
+**Hızla Yönet** https://www.hizlayonet.com/ *(private)* — an all-in-one restaurant operations platform that brings online orders, POS and table management, menu synchronization, and live courier tracking into one system.
 
 The product combines a **Next.js web application** with an **Expo / React Native courier app**.
 
